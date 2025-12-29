@@ -4,7 +4,7 @@
 
 * **[2025/12/29]**: 🤗 We release **Course Data-Visualization-and-Analysis-Methods Community**.
 
-## 📖 Students Projects
+## 📖 Students Group Projects
 
 > Group ID: Projects Topic: Related GitHub link with detailed README files —— Team numbers
 
